@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bamboppup",
+  "textures": {
+    "texture": "minecraft:block/bamboo_pressure_plate"
+  }
+}

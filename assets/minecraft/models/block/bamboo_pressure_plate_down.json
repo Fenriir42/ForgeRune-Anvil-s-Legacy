@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bamboppdowm",
+  "textures": {
+    "texture": "minecraft:block/bamboo_pressure_plate"
+  }
+}
